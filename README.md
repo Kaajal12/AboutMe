@@ -1,6 +1,5 @@
 # AboutMe
 About Me App
-
 Purpose: This About Me App, was designed to inform users more about my personal interests and hobbies. Users can answer a set of questions in the quiz to
 learn more about me through user-friendly buttons. 
 
